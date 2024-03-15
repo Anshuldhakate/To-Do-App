@@ -1,0 +1,61 @@
+{
+  "projects": [
+    {
+      "id": "9e03",
+      "name": "New Project",
+      "details": "Details of the project",
+      "remark": "Remarks",
+      "status": "todo"
+    },
+    {
+      "id": "1b85",
+      "name": "project a",
+      "details": "react project",
+      "remark": "123",
+      "status": "todo"
+    },
+    {
+      "id": "caec",
+      "name": "Anshul Raju Dhakate",
+      "details": "javascript",
+      "remark": "123",
+      "status": "todo"
+    },
+    {
+      "id": "a0f0",
+      "name": "Anshul",
+      "details": "123",
+      "remark": "1234",
+      "status": "todo"
+    },
+    {
+      "id": "5652",
+      "name": "PRATIK SURESH PATRE",
+      "details": "ertg",
+      "remark": "123",
+      "status": "todo"
+    },
+    {
+      "id": "b0ba",
+      "name": "Anshul Raju Dhakate",
+      "details": "tyu",
+      "remark": "yujb",
+      "status": "todo"
+    },
+    {
+      "id": "cd0b",
+      "name": "wer",
+      "status": "in_progress"
+    },
+    {
+      "id": "a319",
+      "name": "Project react",
+      "status": "review"
+    },
+    {
+      "id": "8d34",
+      "name": "project javascript",
+      "status": "done"
+    }
+  ]
+}

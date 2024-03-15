@@ -1,0 +1,27 @@
+.todo-app {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    border: 1px solid green;
+  }
+  
+  .add-project {
+    margin-bottom: 20px;
+  }
+  
+  .sections {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .section {
+    flex-grow: 1;
+    margin-right: 20px;
+  }
+  
+  .project-box {
+    background-color: #f27e7e;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }

@@ -9,12 +9,13 @@ This is a simple Todo application built using React.js and a Node.js backend. It
 <br/>
 
 <h1>Features</h1> <br/>
-Add new projects with a name and status (Todo, In Progress, Review, Done).
-Move projects between different status sections.
-Data persistence using a server-side JSON file.
-Error handling for failed network requests.
-Notification for adding a project without a name.
-
+<ul>
+<li>Add new projects with a name and status (Todo, In Progress, Review, Done).</li>
+<li>Move projects between different status sections.</li>
+<li>Data persistence using a server-side JSON file.</li>
+<li>Error handling for failed network requests.</li>
+<li>Notification for adding a project without a name.</li>
+</ul>
 <br/>
 <img width="917" alt="Screenshot 2024-03-17 133837" src="https://github.com/Anshuldhakate/To-Do-App/assets/123949154/78f3e11a-7755-4561-a547-9e94f2b615a5">
 <br/>

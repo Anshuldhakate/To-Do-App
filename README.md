@@ -26,10 +26,10 @@ This is a simple Todo application built using React.js and JSON Server for the b
 
 <h1>Technologies Used</h1> <br/>
 <ul>
-React.js
-Axios for HTTP requests
-JSON for server setup
-CSS for styling
+<li>React.js</li>
+<li>Axios for HTTP requests</li>
+<li>JSON for server setup</li>
+<li>CSS for styling</li>
 </ul>
 <br/>
 <img width="899" alt="Screenshot 2024-03-17 133923" src="https://github.com/Anshuldhakate/To-Do-App/assets/123949154/fd4b7f31-dd4d-4c72-b977-2339c76534d7">

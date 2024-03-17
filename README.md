@@ -34,3 +34,23 @@ This is a simple Todo application built using React.js and JSON Server for the b
 <br/>
 <img width="899" alt="Screenshot 2024-03-17 133923" src="https://github.com/Anshuldhakate/To-Do-App/assets/123949154/fd4b7f31-dd4d-4c72-b977-2339c76534d7">
 <br/>
+
+
+<h1>Getting Started</h1>
+To get a local copy up and running follow these simple steps.
+<br/>
+<h3>Installation</h3>
+Clone the repository <br/>
+git clone https://github.com/your-username/todo-app.git
+<br/>
+Navigate to the project directory <br/>
+cd todo-app
+<br/>
+Install dependencies <br/>
+npm install
+
+<br/>
+<h3>Usage</h3>
+Start the React development server <br/>
+npm start <br/>
+Open your browser and go to http://localhost:3000 to view the Todo App.
